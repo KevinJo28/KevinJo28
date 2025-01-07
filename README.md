@@ -6,11 +6,12 @@
 <section>
 <img src="https://github.com/KevinJo28/KevinJo28/blob/main/Logos/React.png" style="height: 20%; width:20%;"/>
 <img src="https://github.com/KevinJo28/KevinJo28/blob/main/Logos/JS.png" style="height: 20%; width:20%;"/>
-<img src="https://github.com/KevinJo28/KevinJo28/blob/main/Logos/Java.png" style="height: 20%; width:20%;"/> 
+<img src="https://github.com/KevinJo28/KevinJo28/blob/main/Logos/HTML5.png" style="height: 20%; width:20%;"/>
+
 </section>
 <section>
 <img src="https://github.com/KevinJo28/KevinJo28/blob/main/Logos/MySQL.png" style="height: 20%; width:20%;"/>
-<img src="https://github.com/KevinJo28/KevinJo28/blob/main/Logos/HTML5.png" style="height: 20%; width:20%;"/>
+<img src="https://github.com/KevinJo28/KevinJo28/blob/main/Logos/Java.png" style="height: 20%; width:20%;"/> 
 <img src="https://github.com/KevinJo28/KevinJo28/blob/main/Logos/CSS.png" style="height: 20%; width:20%;"/>
 </section>
 <section>
