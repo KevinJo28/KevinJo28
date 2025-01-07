@@ -7,7 +7,7 @@
 <b>JavaScript</b>
 <br>
 <b>Java</b>
-<b>CSS</b>
+<b>    CSS</b>
 <br>
 <b>HTML5</b>
 <b>Git y GitHub</b>
