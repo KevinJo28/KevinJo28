@@ -23,11 +23,11 @@
 
 
 ## Habilidades:
-<b>Buena comunicación, </b>
+<b>Buena comunicación, Liderazgo,</b>
 <b>Creatividad</b>
 <br>
 <b>Resolución de problemas ,</b>
-<b>Auto-didacta</b>
+<b>Auto-didacta.</b>
 
 
 
