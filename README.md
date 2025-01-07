@@ -23,12 +23,10 @@
 
 
 ## Habilidades:
-<b>Buena comunicación </b>
-<br>
+<b>Buena comunicación, </b>
 <b>Creatividad</b>
 <br>
-<b>Resolución de problemas</b>
-<br>
+<b>Resolución de problemas ,</b>
 <b>Auto-didacta</b>
 
 
