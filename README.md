@@ -24,7 +24,7 @@
 
 ## Habilidades:
 <b>Buena comunicación, Liderazgo,</b>
-<b>Creatividad</b>
+<b>Creatividad,</b>
 <br>
 <b>Resolución de problemas ,</b>
 <b>Auto-didacta.</b>
