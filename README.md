@@ -4,15 +4,12 @@
 
 ## Technologías:
 <b>React JS</b>
-<br>
 <b>JavaScript</b>
 <br>
 <b>Java</b>
-<br>
 <b>CSS</b>
 <br>
 <b>HTML5</b>
-<br>
 <b>Git y GitHub</b>
 
 ## Habilidades:
