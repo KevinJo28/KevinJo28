@@ -4,16 +4,24 @@
 
 ## Technologías:
 <b>React JS</b>
+<br>
 <b>JavaScript</b>
+<br>
 <b>Java</b>
+<br>
 <b>CSS</b>
+<br>
 <b>HTML5</b>
+<br>
 <b>Git y GitHub</b>
 
 ## Habilidades:
 <b>Buena comunicación </b>
+<br>
 <b>Creatividad</b>
+<br>
 <b>Resolución de problemas</b>
+<br>
 <b>Auto-didacta</b>
 
 
