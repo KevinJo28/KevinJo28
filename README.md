@@ -27,7 +27,7 @@
 <b>Creatividad,</b>
 <br>
 <b>Resolución de problemas ,</b>
-<b>Auto-didacta.</b>
+<b>Auto-didacta y capacidad de aprender.</b>
 
 
 
