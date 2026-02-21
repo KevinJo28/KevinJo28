@@ -11,7 +11,6 @@
 </section>
 <section>
 <img src="https://github.com/KevinJo28/KevinJo28/blob/main/Logos/MySQL.png" style="height: 20%; width:20%;"/>
-<img src="https://github.com/KevinJo28/KevinJo28/blob/main/Logos/Java.png" style="height: 20%; width:20%;"/> 
 <img src="https://github.com/KevinJo28/KevinJo28/blob/main/Logos/CSS.png" style="height: 20%; width:20%;"/>
 </section>
 <section>
